@@ -33,6 +33,8 @@ end
 last_student_by_method
 
 def first_second_and_third_students
-  STUDENT_NAMES[1,2,3]
+  STUDENT_NAMES[1]
+  STUDENT_NAMES[2]
+  STUDENT_NAMES[3]
 end
 first_second_and_third_students
