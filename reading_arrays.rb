@@ -13,12 +13,12 @@ end
 first_student_by_index
 
 def fourth_student_by_index
-  STUDENT_NAMES[4]
+  STUDENT_NAMES[3]
 end
 fourth_student_by_index
 
 def last_student_by_index
-  STUDENT_NAMES[6]
+  STUDENT_NAMES[5]
 end
 last_student_by_index
 
@@ -33,8 +33,8 @@ end
 last_student_by_method
 
 def first_second_and_third_students
+  STUDENT_NAMES[0]
   STUDENT_NAMES[1]
   STUDENT_NAMES[2]
-  STUDENT_NAMES[3]
 end
 first_second_and_third_students
